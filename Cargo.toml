@@ -42,7 +42,7 @@ rand_xoshiro = "0.6"
 quickcheck = { version = "1", optional = true }
 proptest = { version = "1", optional = true }
 serde = { version = "1", optional = true }
-rayon = { git = "https://github.com/ryoqun/rayon", rev = "48efe667f1a81167a1794369c7eee40b85192d8e", optional = true }
+rayon = { git = "https://github.com/ryoqun/rayon", rev = "3e1dd3601186edf94bf73072d74870c7148e98ec", optional = true }
 refpool = { version = "0.4", optional = true }
 arbitrary = { version = "1.1", optional = true }
 
